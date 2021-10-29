@@ -1,0 +1,8 @@
+Jawaban
+1. pada masalah yang pertama bagaimana agar dapat menghitung segitiga dalam file word.txt
+jadi cara penyelesaian na adalah bagai mana caranya dapat memcahkan huruf alfabet kedalam sebuah perhitungan agar dapat menjumlahkan berapa banyak yang akan menjadi sebuah segitiga 
+2. permasalahanya adalah bagaimana untuk mendaptkan deret pada palindrome 
+penyelesainya adalaha dengan cara membuat suatu array dan membalikan isi dalam array tersebut (Ditukarkan) 
+3. penyelesaian no 3 bagaimana cara agar tahu hasil dari loncantan atau keliptan 3 yang sebelumnya sudah di bagai atau modulus(MOD)
+4.----
+5. penyelesainnya menentukan hasil dari kedua nilai kemduian hasilnya di bagai atau MOD/modulus dengan 1234567929624 
